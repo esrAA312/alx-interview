@@ -3,12 +3,10 @@
 Module 
 """
 
-
 def canUnlockAll(boxes):
     """
     Function 
     """
-    # Number of boxes
     n = len(boxes)
 
     eeunlocked = set()
